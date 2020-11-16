@@ -1,5 +1,5 @@
 import { Engine, Scene } from "@babylonjs/core";
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useRef } from "react";
 
 interface props {
   onRender: any;
